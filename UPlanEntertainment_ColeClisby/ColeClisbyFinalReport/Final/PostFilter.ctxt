@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=location\ entertainmentType\ payRange
+comment0.target=PostFilter(java.lang.String,\ java.lang.String,\ double)
+comment1.params=location
+comment1.target=void\ setLocation(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getLocation()
+comment3.params=entertainmentType
+comment3.target=void\ setEntertainmentType(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEntertainmentType()
+comment5.params=payRange
+comment5.target=void\ setPayRange(double)
+comment6.params=
+comment6.target=double\ getPayRange()
+numComments=7

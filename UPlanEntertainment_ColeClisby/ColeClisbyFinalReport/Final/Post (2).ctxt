@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=eventTitle\ description\ eventPay\ eventLocation\ eventTime
+comment0.target=Post(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment1.params=eventTitle
+comment1.target=void\ setEventTitle(java.lang.String)
+comment10.params=
+comment10.target=int\ getEventTime()
+comment2.params=
+comment2.target=java.lang.String\ getEventTitle()
+comment3.params=description
+comment3.target=void\ setDescription(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=eventPay
+comment5.target=void\ setEventPay(double)
+comment6.params=
+comment6.target=double\ getEventPay()
+comment7.params=eventLocation
+comment7.target=void\ setEventLocation(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getEventLocation()
+comment9.params=eventTime
+comment9.target=void\ setEventTime(int)
+numComments=11
